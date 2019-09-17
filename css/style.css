@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900&display=swap');
+
+/* **********************************************
+               GENERAL
+************************************************** */
+body {
+    background-color:#DFE0E2;
+    color: #000;
+    font-size: 1rem;
+    font-family: 'lato', sans-serif;
+    line-height: 1.5;
+}
+
+
+/* **********************************************
+                NAVIGATION BAR
+************************************************** */
+nav {
+    padding-bottom: 10rem;
+}
+
+h1{
+    padding-bottom:20rem;
+    text-align: center;
+    color: #fff;
+}
+.nav-list {
+    list-style-type: block;
+    background-color: #ccc;
+    width: 100%;
+    background-color: transparent;
+}
+
+.nav-list li {
+    display: inline-block;
+    padding: 1rem;
+}
+
+.nav-list li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-list li a:hover {
+    color: #ddd;
+}
+
+/* **********************************************
+                HEADER
+************************************************** */
+
+header {
+    background-image: url(../images/h-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+
+}
+
+/* **********************************************
+                  ABOUT ME
+************************************************** */
+
+.about-me {
+    text-align: center;
+    border: 2px solid #1A1B41;
+    background-color: #fff;
+    margin: -5rem auto;
+    width: 35rem;
+    padding: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .nav-list li a:visited {
+    color: #fff;
+} */
+
+/* .main-heading {
+    color: black;
+    text-align: center;
+}
+
+.company-name {
+    color: violet;
+    font-family: verdana;
+    line-height: 1;
+    font-weight: bold;
+    background-color:black;
+}
+
+.job-title {
+    color: yellow;
+    font-family: lucida;
+    font-style: italic;
+    background-color: blueviolet;   
+}
+
+.job-description {
+    color: palevioletred;
+    font-family: impact;
+    background-color: white;
+    line-height: 2;
+    font-size: 15px;
+}
+
+.ul-bg {
+    color: lavender;
+    text-align: center;
+    font-size: 0.5rem;
+    background-color: yellowgreen;
+}
+
+.about-me-text {
+    color: lightpink;
+    text-align: right;
+    font-family: courier;
+    background-color: brown;
+}
+
+.align-right-text {
+    text-align: right;
+    font-size: 1.6rem;
+    font-family: georgia;
+    font-style: oblique;
+    color: rosybrown;
+    font-weight: bold;
+
+}
+
+.heading {
+    font-size: 1.4rem;
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    color: mediumvioletred;
+} */
+
+/* 
+comment shortcut: command + /
+create documnet: ! + return
+*/
